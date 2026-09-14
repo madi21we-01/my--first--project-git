@@ -15,3 +15,4 @@
 ../.vscode/
 ../my-devops-project/
 ../snap/
+print("edited directly on gitHub")
